@@ -1,0 +1,9 @@
+{
+    "name": "com.ayasme.utilities",
+    "version": "0.1.0",
+    "displayName": "Utilities",
+    "description": "Package for helper and extension scripts.",
+    "unity": "2022.1",
+    "unityRelease": "18f1",
+    "documentationUrl": "https://github.com/ayasme/Unity-Packages/wiki/Utilities/"
+  }
